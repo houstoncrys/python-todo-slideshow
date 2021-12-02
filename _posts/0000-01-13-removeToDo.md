@@ -8,3 +8,4 @@ title: ""
 print('What task did you complete?')
 complete = input()
 myTodo.remove(complete)
+```
