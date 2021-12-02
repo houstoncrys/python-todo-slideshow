@@ -4,8 +4,7 @@ title: ""
 ---
 ### Remove from our TO DO LIST
 
-```python
-print('What task did you complete?')
+```print('What task did you complete?')
 complete = input()
 myTodo.remove(complete)
-```
+
